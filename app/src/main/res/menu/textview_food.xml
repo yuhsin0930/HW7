@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="鼎泰豐"
+        android:id="@+id/menu_food1"/>
+
+    <item android:title="螺絲瑪莉"
+        android:id="@+id/menu_food2"/>
+
+    <item android:title="凱恩斯牛排"
+        android:id="@+id/menu_food3"/>
+
+</menu>

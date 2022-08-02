@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="慢食堂"
+        android:id="@+id/menu_food1"/>
+
+    <item android:title="長腿實驗室"
+        android:id="@+id/menu_food2"/>
+
+    <item android:title="大園101景觀餐廳"
+        android:id="@+id/menu_food3"/>
+
+</menu>
